@@ -1,4 +1,4 @@
 # UpdateTime：2025-08-13 22:27:53
 # RuleCount：1
 payload:
-  - DOMAIN,mypikpak.net
+  - DOMAIN-SUFFIX,mypikpak.net
