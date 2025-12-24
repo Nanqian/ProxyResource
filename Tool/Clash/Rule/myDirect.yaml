@@ -1,6 +1,16 @@
-# UpdateTime：2025-09-20 12:47:01
-# RuleCount：2
+# UpdateTime：2025-12-24 17:30
+# RuleCount：13
 payload:
   - DOMAIN-SUFFIX,apad.pro  // 麻婆DNS
   - DOMAIN,op.018866.xyz //op
   - DOMAIN-SUFFIX,naixi.net //奶昔论坛
+  - DOMAIN,mtalk.google.com
+  - DOMAIN,alt1-mtalk.google.com
+  - DOMAIN,alt2-mtalk.google.com
+  - DOMAIN,alt3-mtalk.google.com
+  - DOMAIN,alt4-mtalk.google.com
+  - DOMAIN,alt5-mtalk.google.com
+  - DOMAIN,alt6-mtalk.google.com
+  - DOMAIN,alt7-mtalk.google.com
+  - DOMAIN,alt8-mtalk.google.com
+  - DOMAIN,mtalk.google.com
