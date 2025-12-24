@@ -2,3 +2,4 @@
 # RuleCount：1
 payload:
   - DOMAIN-SUFFIX,mypikpak.net
+  - DOMAIN-SUFFIX,v2ex.com
